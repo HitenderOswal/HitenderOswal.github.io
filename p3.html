@@ -1,9 +1,42 @@
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<style>
+ body {
+    margin: 0;
+    padding: 0;
+    background-image: url('back.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .background-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value for semi-transparency */
+    z-index: -1; /* Ensure the overlay is behind other content */
+  }
+
+  .content {
+    position: relative;
+    z-index: 1; /* Ensure the content is above the background overlay */
+    text-align: center;
+    padding: 50px;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+</style>
 <body style="text-align: center;align-content: center;">
-    <h1>I wish I could give you all the roses in the world but these will have to do for now</h1>
-    <img src="rosey.jpg" style="max-width:80%;height:auto;">
-    <h1>You are everything that I ever wanted. I can't imagine a world without you and  </h1>
+    <div class="background-overlay"></div>
+    <div class="content">
+        <h1 style="color:white;">I wish I could give you all the roses in the world but these will have to do for now</h1>
+        <img src="rosey.png" style="max-width:80%;height:auto;mix-blend-mode:multiply;">
+        <h1 style="color:white;">You are everything that I ever wanted. I can't imagine a world without you</h1>
+    </div>
 </body>
 </html>
