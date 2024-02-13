@@ -5,6 +5,9 @@
     <h1 id="building" style="color:red; max-width:100vw; font-size:5vw;">
         I Love You
     </h1>
+    <a href="p3.html">
+    <button hidden id="next" type="button" style="font-size: 4vw; width:auto; color:red">Press this</button>
+    </a>
     <script>
         window.onload = async function add(){
             for(let i = 0; i < 100; i++){
@@ -13,6 +16,7 @@
                 document.getElementById("building").innerHTML = build + " So Much";
                 await new Promise(r => setTimeout(r, 200));
             }
+            document.getElementById("next").hidden = false;
         }
     </script>
 </body>
