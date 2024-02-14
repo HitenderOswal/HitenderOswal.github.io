@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-<body style="font-size:10vw;text-align:center;background-color:red;color:white;height:100vw; line-height:10vw;">
-<p> Opens In</p>
-<p id="CountDown"></p>
+<body style="font-size:10vw;text-align:center;background-color:red;color:white;height:10vw; line-height:10vw;">
+<p>I arrive in</p>
+<p id="CountDown" style="margin:0"></p>
 <script>
 window.onload = function count(){
 
-var countDownDate = new Date("Feb 14, 2024 00:00:00").getTime();
+var countDownDate = new Date("Feb 29, 2024 09:18:00").getTime();
 
 var x = setInterval(function() {
 
@@ -25,10 +25,13 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    window.location.href = "p1.html";
+    
   }
 }, 1000);
 }
 </script>
+<a href="p1.html">
+<button style="margin:0;font-size: 4vw; height:auto; width:auto;">Press This To See the Old Pages</button>
+</a>
 </body>
 </html>
