@@ -16,7 +16,9 @@
                 document.getElementById("building").innerHTML = build + " So Much";
                 await new Promise(r => setTimeout(r, 200));
             }
-            document.getElementById("next").hidden = false;
+            await new Promise(r => setTimeout(r, 5000));
+            window.location.href = "p3.html";
+            //document.getElementById("next").hidden = false;
         }
     </script>
 </body>
