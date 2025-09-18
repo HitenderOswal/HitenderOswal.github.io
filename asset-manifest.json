@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heart/static/css/main.061fabb7.css",
+    "main.js": "/heart/static/js/main.db08d5d8.js",
+    "index.html": "/heart/index.html",
+    "main.061fabb7.css.map": "/heart/static/css/main.061fabb7.css.map",
+    "main.db08d5d8.js.map": "/heart/static/js/main.db08d5d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061fabb7.css",
+    "static/js/main.db08d5d8.js"
+  ]
+}
