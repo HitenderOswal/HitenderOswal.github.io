@@ -26,7 +26,7 @@ author:
   name             : "Hitender Oswal"
   pronouns         : # example: "she/her"  
   bio              : "Senior in CS @ University of Washington"
-  location         : "Seattle, WA"
+  location         : #
   employer         : #
   uri              : #
   email            : "hitender@cs.washington.edu" 
