@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a senior at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington, Seattle](https://www.washington.edu/).
 
-<div class="notice--info" markdown="1">
+<div class="notice--info" style="font-size: 1em !important;" markdown="1">
 I'm always looking for opportunities in machine learning research relating to medicine, biology, or any other challenging areas. [Reach out to me](mailto:hitender@cs.washington.edu) if you have an ML research project in your lab or startup.
 </div>
 
