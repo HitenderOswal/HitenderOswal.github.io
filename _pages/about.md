@@ -15,7 +15,7 @@ I like to work on research projects that solve complex problems whether they are
 
 Besides my published research at KurtLab during the past two years, I also have worked in the HCI field with University of Washington faculty on projects related to interaction design, accessibility, virtual reality and haptics. Several of these projects have resulted in peer-reviewed publications. 
 
-Alongside my research at AWS, KurtLab, and with other UW faculty, I have been active in computing events on campus and I was elected the President of the Extended Reality Association in September 2025. I led Hack the AM, the first XR hackathon hosted at the University of Washington.
+Alongside my research at AWS, KurtLab, and with other UW faculty, I have been active in computing events on campus and I was elected the President of the Extended Reality Association in September 2025. I led the first XR hackathon at UW in April 2026 which received over 45 applications and 23 participants.
 
 I'm always looking for opportunities in machine learning research relating to medicine, biology, or any other challenging areas. Reach out to me if you have an ML research project in your lab or startup. 
 
