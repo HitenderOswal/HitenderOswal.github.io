@@ -15,17 +15,25 @@ I'm always looking for opportunities in machine learning research relating to me
 
 I have been a researcher in [KurtLab](https://www.kurtlab.com/) for more than 2 years. Our lab projects have been at the intersection of machine learning and medical research. The focus of this research has been on synthetic data generation and brain tumors, stroke lesion segmentation models, and a collaborative project with NVIDIA involving one of their models.
 
+<div style="text-align: center; color: #ccc; letter-spacing: 0.5em; margin: 1.25em 0;">• • •</div>
+
 While on a second summer internship at AWS, I have worked on an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements.
+
+<div style="text-align: center; color: #ccc; letter-spacing: 0.5em; margin: 1.25em 0;">• • •</div>
 
 I like to work on research projects that solve complex problems whether they are about designing computing infrastructure and systems, or create ML-based technologies to address challenging medical problems like cancer and strokes facing our society. 
 
+<div style="text-align: center; color: #ccc; letter-spacing: 0.5em; margin: 1.25em 0;">• • •</div>
+
 Besides my published research at KurtLab during the past two years, I also have worked in the HCI field with University of Washington faculty on projects related to interaction design, accessibility, virtual reality and haptics. Several of these projects have resulted in peer-reviewed publications. 
+
+<div style="text-align: center; color: #ccc; letter-spacing: 0.5em; margin: 1.25em 0;">• • •</div>
 
 Alongside my research at AWS, KurtLab, and with other UW faculty, I have been active in computing events on campus and I was elected the President of the Extended Reality Association in September 2025. I led the first XR hackathon at UW in April 2026 which received over 45 applications and 23 participants.
 
 ---
 
-## Some of my Recent Activities while at UW
+## Some of my recent activities while at UW
 {: style="border-bottom: none; padding-bottom: 0;"}
 
 * **Summer 2026**: Working at Amazon Web Services GuardDuty as an intern on the Multi Domain Correlation Team developing an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements.
