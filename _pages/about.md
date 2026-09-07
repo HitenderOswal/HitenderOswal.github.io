@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington, Seattle](https://www.washington.edu/). 
+I'm a senior at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington, Seattle](https://www.washington.edu/).
 
-My current research projects in [KurtLab](https://www.kurtlab.com/) at the University of Washington are at the intersection of machine learning and medical research. The focus of this research has been on synthetic data generation and brain tumors, stroke lesion segmentation models, and a collaborative project with NVIDIA involving one of their models.  
+<div class="notice--info" markdown="1">
+I'm always looking for opportunities in machine learning research relating to medicine, biology, or any other challenging areas. [Reach out to me](mailto:hitender@cs.washington.edu) if you have an ML research project in your lab or startup.
+</div>
 
-This summer, I have worked on an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements while on a second summer internship at AWS.  
+I have been a researcher in [KurtLab](https://www.kurtlab.com/) for more than 2 years. Our lab projects have been at the intersection of machine learning and medical research. The focus of this research has been on synthetic data generation and brain tumors, stroke lesion segmentation models, and a collaborative project with NVIDIA involving one of their models.
 
-I like to work on research projects that solve complex problems whether they are about designing computing infrastructure and systems, or create ML-based technologies to address serious medical problems like cancer and strokes facing our society. 
+While on a second summer internship at AWS, I have worked on an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements.
+
+I like to work on research projects that solve complex problems whether they are about designing computing infrastructure and systems, or create ML-based technologies to address challenging medical problems like cancer and strokes facing our society. 
 
 Besides my published research at KurtLab during the past two years, I also have worked in the HCI field with University of Washington faculty on projects related to interaction design, accessibility, virtual reality and haptics. Several of these projects have resulted in peer-reviewed publications. 
 
 Alongside my research at AWS, KurtLab, and with other UW faculty, I have been active in computing events on campus and I was elected the President of the Extended Reality Association in September 2025. I led the first XR hackathon at UW in April 2026 which received over 45 applications and 23 participants.
-
-I'm always looking for opportunities in machine learning research relating to medicine, biology, or any other challenging areas. Reach out to me if you have an ML research project in your lab or startup. 
 
 ---
 
