@@ -31,7 +31,7 @@ Alongside my research at AWS, KurtLab, and with other UW faculty, I have been ac
 * **Summer 2026**: Working at Amazon Web Services GuardDuty as an intern on the Multi Domain Correlation Team developing an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements.
 * **Jul 2026**: Presented a research study on the performance of ChatGPT and other LLMs at the 20th International Conference on Computers Helping People with Special Needs (ICCHP 2026) at Masaryk University in Brno, Czech Republic.
 * **Sep 2025**: Elected as the President of the Extended Reality Association at UW.
-* **Summer 2025**: My first summer internship at Amazon Web Services for GuardDuty where I designed and implemented a scalable microservice for AWS GuardDuty that monitors security threats and vends data to customer accounts globally.
+* **Summer 2025**: My first summer internship at Amazon Web Services on the Findings Management Team where I designed and implemented a scalable microservice for AWS GuardDuty that monitors security threats and vends data to customer accounts globally.
 * **Mar 2025**: Designed and built Peltier-Driven Thermal Haptics for Virtual Reality as our final project for CSE 493v under the guidance of Dr. Douglas Lanman.
 * **Mar 2025**: Our paper on LLMs as a web design assistant accepted at the CWUAAT Workshop at the University of Cambridge, UK.
 * **Sep 2024**: Selected the Challenge Winner for the Ischemic Stroke Lesion Segmentation Challenge 2024.
