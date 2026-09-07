@@ -27,10 +27,10 @@ In order to develop robust deep learning algorithms for automated stroke lesion 
 
 Accurate identification of stroke lesion boundaries is critical for diagnosis and treatment. For the ISLES Challenge at MICCAI 2024, we applied clinically-informed preprocessing techniques to a stroke segmentation model, helping our team win first place. I have also explored how these preprocessing techniques can improve segmentation in low-resource settings and investigated explainable AI techniques from a Shapley perspective for multi-contrast medical image segmentation.
 
-* **How We Won the ISLES'24 Challenge by Preprocessing** (*SWITCH Workshop, MICCAI 2024 — First Place Challenge Winner*)
-* **Here Comes the Explanation: A Shapley Perspective on Multi-contrast Medical Image Segmentation** (*The 3rd World Conference on eXplainable AI (XAI 2025)*)
-* **Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings** (*MIRASOL Workshop, MICCAI 2025*)
-* **An Ensemble Approach for Brain Tumor Segmentation and Synthesis** (*MICCAI 2024*)
+* [**How We Won the ISLES'24 Challenge by Preprocessing**](https://arxiv.org/abs/2505.18424) (*SWITCH Workshop, MICCAI 2024 — First Place Challenge Winner*)
+* [**Here Comes the Explanation: A Shapley Perspective on Multi-contrast Medical Image Segmentation**](https://arxiv.org/abs/2504.04645) (*The 3rd World Conference on eXplainable AI (XAI 2025)*)
+* [**Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings**](https://arxiv.org/abs/2508.16004) (*MIRASOL Workshop, MICCAI 2025*)
+* [**An Ensemble Approach for Brain Tumor Segmentation and Synthesis**](https://arxiv.org/abs/2411.17617) (*MICCAI 2024*)
 
 ---
 
