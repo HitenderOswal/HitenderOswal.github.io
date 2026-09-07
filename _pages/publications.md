@@ -9,7 +9,7 @@ author_profile: true
 
 This page highlights my research at the University of Washington and Amazon Web Services. The emphasis of this research has been on machine learning for medical imaging and interactive computing.
 
-This research experience includes medical image segmentation, synthetic CT generation, and other projects focused around virtual reality, human-computer interaction, and accessibility. You can find a more complete list of my publications in my [CV](/files/Hitender_K_Oswal_CV.pdf){:target="_blank"}, on my [Google Scholar](https://scholar.google.com/citations?user=TFFKDv8AAAAJ&hl=en) profile, and [DBLP](https://dblp.org/). 
+This research experience includes medical image segmentation, synthetic CT generation, and other projects focused around virtual reality, human-computer interaction, and accessibility. You can find a more complete list of my publications in my [CV](/files/Hitender_K_Oswal_CV.pdf){:target="_blank"}, on my [Google Scholar](https://scholar.google.com/citations?user=TFFKDv8AAAAJ&hl=en) profile, and [DBLP](https://dblp.org/pid/359/3470.html). 
 Here are a few selected projects:
 
 ---
@@ -48,4 +48,4 @@ During my second AWS summer internship in 2026, I designed an autonomous AI fram
 
 ## Other Peer-reviewed Published Research
 
-In addition to my ML and software design research, I have also collaborated on several human-computer interaction design (HCI) projects at the University of Washington which are included in my [CV](/files/Hitender_K_Oswal_CV.pdf){:target="_blank"} and [Google Scholar](https://scholar.google.com/citations?user=TFFKDv8AAAAJ&hl=en) profile.
+In addition to my ML and software design research, I have also collaborated on several human-computer interaction design projects at the University of Washington which are included in my [CV](/files/Hitender_K_Oswal_CV.pdf){:target="_blank"} and [Google Scholar](https://scholar.google.com/citations?user=TFFKDv8AAAAJ&hl=en) profile.
