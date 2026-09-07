@@ -22,6 +22,7 @@ I'm always looking for opportunities in machine learning research relating to me
 ---
 
 ## Some of my Recent Activities while at UW
+{: style="border-bottom: none; padding-bottom: 0;"}
 
 * **Summer 2026**: Working at Amazon Web Services GuardDuty as an intern on the Multi Domain Correlation Team developing an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements.
 * **Jul 2026**: Presented a research study on the performance of ChatGPT and other LLMs at the 20th International Conference on Computers Helping People with Special Needs (ICCHP 2026) at Masaryk University in Brno, Czech Republic.
