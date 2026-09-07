@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). My current research projects in [KurtLab](https://www.kurtlab.com/) at the University of Washington are at the intersection of machine learning and medical research. The focus of this research has been on synthetic data generation and brain tumors, stroke lesion segmentation models, and a collaborative project with NVIDIA involving one of their models.  
+I'm a senior at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington, Seattle](https://www.washington.edu/). My current research projects in [KurtLab](https://www.kurtlab.com/) at the University of Washington are at the intersection of machine learning and medical research. The focus of this research has been on synthetic data generation and brain tumors, stroke lesion segmentation models, and a collaborative project with NVIDIA involving one of their models.  
 
 This summer, I have worked on an autonomous AI framework that extracts threats from cybersecurity intelligence, identifies security gaps, and generates validated system improvements while on a second summer internship at AWS.  
 

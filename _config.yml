@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hitender Oswal"
 title_separator          : "-"
 name                     : "Hitender Oswal"
-description              : "Senior in Computer Science @ University of Washington | KurtLab | AWS Intern"
+description              : "Senior in Computer Science @ University of Washington"
 url                      : "https://hitenderoswal.github.io"
 baseurl                  : ""
 repository               : "hitender/hitender.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Hitender Oswal"
   pronouns         : # example: "she/her"  
-  bio              : "Senior in CS @ University of Washington | KurtLab | AWS Intern"
+  bio              : "Senior in CS @ University of Washington"
   location         : "Seattle, WA"
   employer         : #
   uri              : #
