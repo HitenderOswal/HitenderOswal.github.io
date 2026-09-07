@@ -179,10 +179,14 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
     text-decoration: none;
+
+    @include breakpoint($small) {
+      margin: 0 1rem;
+    }
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
